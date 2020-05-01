@@ -2,7 +2,7 @@
      A                                      CA03(03)
      A          R SFLDTA                    SFL
      A            RRN            4Y 0H
-     A* DISPLAY DTA
+     A* DISPLAY  gajender made changes here 
      A            @1SEL          1A  B  7  8
      A            @XID           3A  O  7 12
      A            @XNAME        38A  O  7 16
